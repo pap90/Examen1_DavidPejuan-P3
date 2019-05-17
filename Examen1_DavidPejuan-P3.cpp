@@ -72,7 +72,7 @@ moverN:
 
 		}else if(turno==2){
 				turno=1;
-		}
+		} 
 		
 	}
 }
